@@ -11,7 +11,7 @@ ___         __  _
 
 - 👀 I’m interested in UX, UI, and I18N ie. in making sure users have a generally good time.
 - 🌱 I’m currently learning C# full-stack development and MAUI!
-- 📫 You can reach me by [e-mail](mailto:klaben.szabolcs@gmail.com)!
+- 📫 You can reach me by [e-mail](mailto:klaben.szabolcs.bence@tudi20.dev)!
 
 <!---
 Tudi20/Tudi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
