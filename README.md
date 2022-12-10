@@ -10,7 +10,7 @@ ___         __  _
  └───────────┴──────────────────┘  
 
 - 👀 I’m interested in UX, UI, and I18N ie. in making sure users have a generally good time.
-- 🌱 I’m currently learning C# full-stack development and MAUI!
+- 🌱 I’m currently learning C# full-stack development, Angular, React!
 - 📫 You can reach me by [e-mail](mailto:contact@tudi20.dev)!
 
 <!---
