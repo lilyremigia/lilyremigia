@@ -1,15 +1,9 @@
 ### <div align="center">I'm Tudi20, fresh graduate 🎓 developer 👨‍💻 looking for work 🚀</div>  
   
-
 - 🔭 I’m currently working on [my Resume in Angular](https://github.com/tudi20/angular-resume)  
-  
-
 - 🌱 I’m currently learning Angular  
-  
-
+- 🌐 I’m mostly helping the open-source community with Hungarian translations.
 - ⚡ Fun fact: My first programming language was Pascal  
-
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -65,10 +59,7 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
+</td></tr></table>
 
 ## Connect with me  
 <div align="center">
@@ -87,32 +78,19 @@
  <a href="https://twitter.com/tudi20" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
-
-<br/>  
-
+</div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tudi20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tudi20&&style=flat-square" align="center" />
 </div>  
-
-<br/>  
 
 <div align="center">
             <a href="https://ko-fi.com/tudi20" target="_blank" style="display: inline-block;">
@@ -121,7 +99,6 @@ If things goes well, this section should automatically be replaced by a list of 
                     align="center"
                 />
             </a></div>
-<br />
 
 ----
 <div align="center">Made with the help of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
