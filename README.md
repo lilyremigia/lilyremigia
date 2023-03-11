@@ -1,7 +1,6 @@
-### <div align="center">I'm Tudi20, fresh graduate 🎓 developer 👨‍💻 looking for work 🚀</div>  
+### <div align="center">I'm Tudi20, a Junior SAP Developer 👨‍💻 </div>  
   
-- 🔭 I’m currently working on [my Resume in Angular](https://github.com/tudi20/angular-resume)  
-- 🌱 I’m currently learning Angular  
+- 🔭 I’m currently working on [my Resume](https://github.com/tudi20/angular-resume)  
 - 🌐 I’m mostly helping the open-source community with Hungarian translations.
 - ⚡ Fun fact: My first programming language was Pascal  
 
@@ -99,6 +98,3 @@ If things goes well, this section should automatically be replaced by a list of 
                     align="center"
                 />
             </a></div>
-
-----
-<div align="center">Made with the help of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
