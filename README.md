@@ -1,7 +1,8 @@
 ### <div align="center">I'm Lily Remigia, a Junior SAP Developer 👨‍💻 </div>  
   
-- 🌐 I’m mostly helping the open-source community with Hungarian translations.
-- ⚡ Fun fact: My first programming language was Pascal  
+- 🌐 I’m mostly helping the open-source community with Hungarian translations
+  - and doing some hobby projects.
+- ⚡ Fun fact: My first programming language was Pascal!
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -16,7 +17,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <!-- Frameworks -->
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://www.tudi20.dev/pictures/programming-language-logos/blazor.png" alt="Blazor" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/blazor.svg" alt="Blazor" height="50" /></a>  
 <!-- Stylers -->
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -32,6 +33,7 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="50" title="Rust Media Policy: https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/ License: https://creativecommons.org/licenses/by/4.0/"></a>
 <!-- Frameworks -->
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>   
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -61,39 +63,31 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/szabolcs-bence-kláben-91bbba212" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/tudi20" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/11688872/tudi20" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@tudi20" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
- <a href="https://twitter.com/tudi20" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+ <a href="https://li.tudi20.dev" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://gh.tudi20.dev" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://so.tudi20.dev" target="_blank">
+  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://tw.tudi20.dev" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://tb.tudi20.dev" target="_blank">
+  <img src=https://img.shields.io/badge/tumblr-%2336465D?&style=for-the-badge&logo=tumblr&logoColor=white alt=tumblr style="margin-bottom: 5px;" />
+ </a>
 </div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tudi20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+## Misc.
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tudi20&&style=flat-square" align="center" />
-</div>  
-
-<div align="center">
-            <a href="https://ko-fi.com/tudi20" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
+ <img src="https://komarev.com/ghpvc/?username=tudi20&&style=flat-square" align="center" />
+ <a href="https://ko-fi.com/tudi20" target="_blank" style="display: inline-block;">
+   <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" />
+ </a>
+ <img src="https://img.shields.io/badge/Gender-Trans%20girl-febcd3?style=flat-square" alt=transgirl align="center" />
+</div>
