@@ -1,4 +1,4 @@
-### <div align="center">I'm Lily Remigia, a Junior SAP Developer 👨‍💻 </div>  
+### <div align="center">I'm Tudi20, a Junior SAP Developer 👨‍💻 </div>  
   
 - 🌐 I’m mostly helping the open-source community with Hungarian translations
   - and doing some hobby projects.
