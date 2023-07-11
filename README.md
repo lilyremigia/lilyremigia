@@ -89,5 +89,4 @@
  <a href="https://ko-fi.com/tudi20" target="_blank" style="display: inline-block;">
    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" />
  </a>
- <img src="https://img.shields.io/badge/Gender-Trans%20girl-febcd3?style=flat-square" alt=transgirl align="center" />
 </div>
