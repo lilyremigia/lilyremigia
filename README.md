@@ -61,29 +61,8 @@
 
 </td></tr></table>
 
-## Connect with me  
-<div align="center">
- <a href="https://li.tudi20.dev" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
- </a>
- <a href="https://gh.tudi20.dev" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
- </a>
- <a href="https://so.tudi20.dev" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
- </a>
- <a href="https://tw.tudi20.dev" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
- </a>
- <a href="https://tb.tudi20.dev" target="_blank">
-  <img src=https://img.shields.io/badge/tumblr-%2336465D?&style=for-the-badge&logo=tumblr&logoColor=white alt=tumblr style="margin-bottom: 5px;" />
- </a>
-</div>
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tudi20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-## Misc.
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=tudi20&&style=flat-square" align="center" />
  <a href="https://ko-fi.com/tudi20" target="_blank" style="display: inline-block;">
